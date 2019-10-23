@@ -5,3 +5,5 @@ Mars is a red planet with water. But frozen.
 Mars is just inside the Goldielocks zone... I think.
 
 To do: Add about aliens on Mars. 
+
+How do we get to Mars?
